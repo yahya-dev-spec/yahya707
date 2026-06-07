@@ -25,8 +25,7 @@ Flutter &amp; AI Developer
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🎬 Movie Genre Predictor | AI app predicting movie genres from posters & trailers | Flutter, Python, CLIP, PyTorch, Firebase |
-
+| [🎬 Movie Genre Predictor](https://github.com/yahya-dev-spec/moviegenre) | AI app predicting movie genres from posters & trailers | Flutter, Python, CLIP, PyTorch, Firebase |
 ---
 
 ## 📫 Contact Me
